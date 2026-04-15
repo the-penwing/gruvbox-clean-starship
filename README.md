@@ -2,7 +2,7 @@
 
 Starship propmt inspired by a bash prompt of the same name originally created by user Graawr on http://dotshare.it
 
-![classyTouch](https://raw.githubusercontent.com/pr0tocol/classyTouch_oh-my-zsh/master/classyTouch.png)
+![classyTouch](classyTouch.png)
 
 ## Installation
 
