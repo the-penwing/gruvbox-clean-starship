@@ -1,7 +1,7 @@
 # Starship Propmt - classyTouch
 
 [Starship](https://starship.rs/) propmt inspired by a bash prompt of the same name
-![classyTouch](classy-touch.png)
+![classyTouch](screenshot.png)
 
 ## Installation
 Just download the ``starship.toml`` and place it in ``~/.config``
