@@ -22,6 +22,11 @@
 
 ![photo](screenshot.png)
 
+## Requirements
+
+- Starship
+- A Nerdfont selected and enabled in the terminal (a starship requirement but listing it here regardless)
+
 ## Installation
 
 Just download the ``starship.toml`` file and place in ``~/.config``
